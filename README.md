@@ -1,2 +1,2 @@
 # Class-BS-HW
-> introduce Humix Robot
+> introduce Robot Humix 
